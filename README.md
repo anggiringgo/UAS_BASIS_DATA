@@ -38,4 +38,5 @@
 
 ### 8. Trigger
 ![image](https://user-images.githubusercontent.com/81921974/126072433-ecc83d42-fa17-4b72-b3dc-034c2499bfed.png)
+![image](https://user-images.githubusercontent.com/81921974/126073177-dabd643a-a585-497d-b89f-3875fe7aba50.png)
 
