@@ -13,13 +13,16 @@
 ### 3. Apabila login berhasil maka akan masuk ke dashboard Aplikasi.
  Navigation Bar terdiri dari:
  * Nama Toko Laundry yang berfungsi sebagai Home button
- * Harga yang berfungsi untuk mengganti harga apabila suatu waktu berubah
+ * Harga yang berfungsi untuk mengganti harga apabila suatu waktu berubah (fungsi edit/update ada disini)
  * Dropdown Data Customer yang berfungsi untuk melihat data pelanggan, terdiri dari mingguan, bulanan, tahunan*
  * Logout untuk keluar
  * Dan hari untuk memudahkan dalam memasukan data hari
- * Dana Formulir untuk memasukan data
+ * Dana Formulir untuk memasukan data (fungsi create)
+ * 
 ![image](https://user-images.githubusercontent.com/81921974/126070578-24c757a6-6799-4c8b-a870-b56b7b96f9e1.png)
 ![image](https://user-images.githubusercontent.com/81921974/126070923-d6d3abfb-36ab-4c96-af97-6172771f55a2.png)
+![image](https://user-images.githubusercontent.com/81921974/126071567-d97efee5-158c-47be-9800-ba82cfe4d2bd.png)
+
 
 ### 4. Tampilan edit harga
 ![image](https://user-images.githubusercontent.com/81921974/126070997-d9f5a8af-2933-4b49-91fe-6b498f190172.png)
@@ -32,3 +35,7 @@
 
 ### 7. Button Export akan otomatis download
 ![image](https://user-images.githubusercontent.com/81921974/126071129-43e16206-43ee-4da4-a92c-7a1c604016e9.png)
+
+### 8. Trigger
+![image](https://user-images.githubusercontent.com/81921974/126072433-ecc83d42-fa17-4b72-b3dc-034c2499bfed.png)
+
