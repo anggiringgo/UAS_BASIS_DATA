@@ -3,6 +3,7 @@
 ## NIM  : 311910743
 ## Kelas: TI.19.B2
 
+### LINK VIDEO https://youtu.be/TJ_eAxAt1tQ
 ### 1. Menjalankan XAMPP.
 ![image](https://user-images.githubusercontent.com/81921974/126070632-f7b6e78b-816d-4136-97df-4fbf325c6c52.png)
 ![1](https://user-images.githubusercontent.com/81921974/126070464-2995c418-c9f5-4083-ad64-8aeabebc7e5a.PNG)
